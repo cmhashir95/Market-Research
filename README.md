@@ -72,10 +72,6 @@ Captures all responses from participants across a wide range of survey questions
 
 ---
 
-## 👨‍💼 About the Analyst
-**Peter Pandey** – Marketing Data Analyst at CodeX. Tasked with translating raw survey data into actionable insights for the marketing and product development teams.
-
----
 
 ## 📈 Analysis Areas
 - Brand awareness and trial rates by city, age, and gender
@@ -89,7 +85,7 @@ Captures all responses from participants across a wide range of survey questions
 ---
 
 ## 📊 Tools Used
-- Python / Pandas / NumPy
+- Python 
 - Data visualization: Matplotlib / Seaborn / Plotly / MS PowerBI
 - SQL (for preprocessing or querying data)
 
